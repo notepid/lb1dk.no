@@ -1,0 +1,38 @@
+---
+title: Half way there and back again - SOTA
+date: "2024-09-14T00:00:00.000Z"
+description: "Bringing my four legged companion towards a SOTA activation. Will we make it to the top?"
+---
+
+For a while now I have been staring at the [Sota Maps](https://sotl.as/map/) and expescially eyeing all the summits that have zero activations. There are quite few within my area, and it is really cool that I can potentially be the first to activate them. Some of them require quite bit of effort, but some are not that hard to activate. Some of the summits I have already been to before my SOTA career started!
+
+So this morning I packed my backpack and started my car setting my destination to one of those "virgin" SOTA summits. I also brought my four legged companion, named Zelda (1 year old Shiranian), to see if she would be able to accompany me on a SOTA activation. 
+
+After driving for 1.5 hours we parked the car and donned the backpack. Its quite a bit heavier with two batteries, Xiegu G90 and a 100W PA. The PA is a [KL 203 P](https://www.rmitaly.com/en/product/kl-203-p/) that is modded to have a small fan and somewhat able to run 14MHz (not fully 100W though.)
+
+It started great with nice weather and a cool breeze to keep us from overheating. Zelda got to meet some cows for the first time in her life (they were quite scary according to her) and we had a chat with the local farmer.
+
+![](IMG20240914132123.jpg)
+_Zeldas first meeting with cows. The summit in the background._
+
+However, after about 20 minutes of walking my four legged companion started to feel the climb and hinted at that it was time to turn around and go back to the car. Unfortunately that was just a quarter of the way we needed to walk and the climb had not even started for real yet. After some encouraging words and goodies she reluctantly continued onward.
+
+We continued for 40 more minutes before she just sat down and refused to move - regardless of encouragement and bribes. When we sat down she climbed up into my lap and I understood that the activation was a dud and we had to cut the hike and return to the car. 
+
+Obviously I was not excited about this, but I don't want to push my fourlegged friend more than she is comformtable with either. And since this was her first longer hike it also was kind of expected. 
+
+So I learned not to bring Zelda on my SOTA activations - at least not those that require more than an hour of walk. Hopefully the weather will keep next week and I can give this another go.
+
+Side note I also discovered that the HF propagation were horrible today due to solar flares and the heavy northern lights activity so I would probably ended up with 0 QSOs anyways. So I guess, in a way, she did me a favor :)
+
+![](IMG20240914133635.jpg)
+_First leg of the hike was following a forest road. You can see the summit in the background._
+
+![](IMG20240914135622.jpg)
+_Second leg was more of a path up the hill_
+
+![](IMG20240914142928.jpg)
+_Here but no further. We turned around when got half way up._
+
+![](IMG20240913225357.jpg)
+_Northern lights taken from the driveway of my house the night before._
