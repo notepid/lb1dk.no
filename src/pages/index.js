@@ -25,7 +25,7 @@ const BlogIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <Bio />
-      <iframe src="https://neon1.net/sota/myact/?c=LB1DK&l=10&w=1&h=1" width="600"></iframe>
+      <iframe src="https://neon1.net/sota/myact/?c=LB1DK&l=10&w=1&h=1" width="600" title="Latest SOTA activations"></iframe>
       <ol style={{ listStyle: `none` }}>
         {posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug

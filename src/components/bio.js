@@ -18,9 +18,6 @@ const Bio = () => {
             name
             summary
           }
-          social {
-            twitter
-          }
         }
       }
     }
@@ -43,13 +40,17 @@ const Bio = () => {
         alt="Profile picture"
       />
       {author?.name && (
+        <div>
         <p>
           LB1DK is <strong>{author.name}</strong> {author?.summary || null}
           {` `}
-          {/* <a href={`https://twitter.com/${social?.twitter || ``}`}>
-            You should follow them on Twitter
-          </a> */}
-        </p>
+          </p>
+          <br/>
+          <p>
+              <a href="https://www.youtube.com/@LB1DK_no/shorts" target="_blank" rel="noreferrer"> You should follow us on YouTube
+            </a>
+          </p>
+        </div>
       )}
     </div>
   )
