@@ -1,13 +1,12 @@
 ---
 title: First Activator Kopparen (LA/ST-217)
 date: "2024-09-21T00:00:00.000Z"
-description: "After 9km of walking and more than 16000 steps, I got the \"First Activation\" badge and activated a summit that no one have activated before.
-To me this is very exciting and something I absolutely want to keep doing!"
+description: "After 9km of walking and more than 16000 steps, I got the \"First Activation\" badge and activated a summit that no one have activated before. The target summit was Kopparen (LA/ST-217).
+To me, finding un-activated summits and activating them for the first time is very exciting and something I absolutely want to keep doing!"
 ---
-After 9km of walking and more than 16000 steps, I got the "First Activation" badge and activated a summit that no one have activated before. The target summit was [Kopparen, LA/ST-217](https://sotl.as/summits/LA/ST-217)
-To me, finding un-activated summits and activating them for the first time is very exciting and something I absolutely want to keep doing!
 
-Again I spent a lot of time on the [SOTLAS Map](https://sotl.as/map/) and been eyeing the summits that have zero activations. It happened that my family's cabin is in an area that have quite few of those and I decided to get one of those this weekend while we were there. 
+
+Again I spent a lot of time on the [SOTLAS Map](https://sotl.as/map/) and been eyeing the summits that have zero activations. It happened that my family's cabin is in an area that have quite few of those and I decided to get one of those this weekend while we were there. So off I went to [Kopparen (LA/ST-217)](https://sotl.as/summits/LA/ST-217)
 
 The weather was so so with a temperature of 8C and clouds, but that is also a perfect hiking weather for me. I packed my backpack and if I was ot estimate the weight it was about 10kg. At some point in time I will make a post detailing what I bring along on these longer activations, but for now a short list will have to do:
 
@@ -17,11 +16,35 @@ The weather was so so with a temperature of 8C and clouds, but that is also a pe
 * Rite in the Rain top spiral notebook and a Rite in the Rain Work Ready Mechanical Pencil 
 * Various cables, tools and other things to make the trip more comfortable
 
-The hike up to the summit follows a 4.5km gravel road all the way up. There is an alternative route on the other side of the summit that is shorter, but a lot steeper and is a path and not a road. No vehicles are allowed on the gravel road and it is quite steep after the first kilometer. The first leg of the road goes through a forested area with a few cabins along the road. After a bit the incline started and the forest started to diminish. It was then I remembered I forgot to bring anything bu a 0.5l soda bottle, but luckily about half way up there was a small stream where I could refill it. I prefer to bring a lot more than 0.5l of drink when hiking - but turning around was not an option for me.
+The hike up to the summit follows a 4.5km gravel road all the way up. There is an alternative route on the other side of the summit that is shorter, but a lot steeper and is a path and not a road. No vehicles are allowed on the gravel road and it is quite steep after the first kilometer. The first leg of the road goes through a forested area with a few cabins along the road. After a bit the incline started and the forest started to diminish. 
+
+![](IMG20240921110936.jpg)
+_First leg into a forested area_
+
+![](IMG20240921111827.jpg)
+_Road starts to climb and I see the destination_
+
+![](IMG20240921113502.jpg)
+_Getting closer_
+
+It was then I remembered I forgot to bring anything bu a 0.5l soda bottle, but luckily about half way up there was a small stream where I could refill it. I prefer to bring a lot more than 0.5l of drink when hiking - but turning around was not an option for me.
+
+![](IMG20240921145117.jpg)
+_Filling my soda bottle with water from a stream_
 
 After a half way break where I filled up the reserves with an energy bar, the road became even more steep and my heart rate spiked at 150 at times. Great cardio exercise for sure. There were a few other people going up and down, but not everyone were as red faced as me...
 
+![](IMG20240921121738.jpg)
+_This does not look very steep on the picture, but I assure you that it was_
+
+![](IMG20240921122235.jpg)
+_Panorama view close to the top of the summit_
+
+
 On the top of the summit there are a huge radio tower operated by one of the national telecom companies and a not-so-secret military radar installation. I sat up my vertical antenna and its counterpoise wires and got it adjusted to 20m. I love that it gets a SWR of 1.0 without using the G90 tuner - which in turn means I can use my little PA without any SWR issues. I did a test call with a person from the Netherlands (unfortunately I forgot to note the callsign). Then I tried to reach some fellow Norwegians that I was chatting with on Discord, but seems like we were inside the skip distance so no contact possible there.
+
+![](IMG20240921125719.jpg)
+_Radio up and running with the antenna i in the background. It started to drizzle._
 
 I self-spotted on SOTA Watch and seconds later I had a pileup to manage. However, this round I did not have the luxury of getting help from Stian [LB5SH](https://lb5sh.no/) and his 9 years of experience running multiple DXpeditions and thousands of QSOs. So that meant it was all up to me!
 
@@ -34,10 +57,3 @@ I also got a summit to summit activation and this is something I must remember t
 The hike down went fairly smooth even though my legs felt the number of steps accumulated though the 9km walk.
 
 Thanks for reading and CQ later!
-
-
-
-![](IMG20240904195422.jpg)
-![](IMG20240904195437.jpg)
-![](IMG20240904202036.jpg)
-![](IMG20240904202038.jpg)
