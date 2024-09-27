@@ -14,6 +14,7 @@ const ContentSecurityPolicy = `
   connect-src *;
   font-src 'self';
   frame-src giscus.app
+  frame-src neon1.net
 `
 
 const securityHeaders = [
