@@ -11,7 +11,6 @@ import { remarkAlert } from 'remark-github-blockquote-alert'
 import {
   remarkExtractFrontmatter,
   remarkCodeTitles,
-  remarkImgToJsx,
   extractTocHeadings,
 } from 'pliny/mdx-plugins/index.js'
 // Rehype packages
@@ -153,7 +152,6 @@ export default makeSource({
       remarkGfm,
       remarkCodeTitles,
       remarkMath,
-      remarkImgToJsx,
       remarkAlert,
     ],
     rehypePlugins: [
