@@ -14,7 +14,7 @@ export default function Home({ posts }) {
           <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
             Latest SOTA activations
           </h1>
-          <iframe src="https://neon1.net/sota/myact/?c=LB1DK&l=10&w=1&h=1" width="600"></iframe>
+          <iframe src="https://neon1.net/sota/myact/?c=LB1DK&l=10&w=1&h=1" width="600" title="My SOTA activations"></iframe>
           <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
             Latest blog posts
           </h1>
