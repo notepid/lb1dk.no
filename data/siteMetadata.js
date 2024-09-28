@@ -1,26 +1,26 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'LB1DB',
-  author: 'Mikael',
-  headerTitle: 'Home of LB1DK',
-  description: 'A blog about my ham radio adventures',
-  language: 'en-us',
-  theme: 'system', // system, dark or light
-  siteUrl: 'https://www.lb1db.no',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
-  siteLogo: `${process.env.BASE_PATH || ''}/static/images/LB1DK.svg`,
-  socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
-  mastodon: 'https://mastodon.social/@mastodonuser',
-  email: 'contact@lb1db.no',
-  github: 'https://github.com',
-  x: 'https://twitter.com/x',
+  title: "LB1DB",
+  author: "Mikael",
+  headerTitle: "Home of LB1DK",
+  description: "A blog about my ham radio adventures",
+  language: "en-us",
+  theme: "system", // system, dark or light
+  siteUrl: "https://www.lb1db.no",
+  siteRepo: "https://github.com/timlrx/tailwind-nextjs-starter-blog",
+  siteLogo: `${process.env.BASE_PATH || ""}/static/images/LB1DK.svg`,
+  socialBanner: `${process.env.BASE_PATH || ""}/static/images/twitter-card.png`,
+  mastodon: "https://mastodon.social/@mastodonuser",
+  email: "contact@lb1db.no",
+  github: "https://github.com",
+  x: "https://twitter.com/x",
   // twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
-  youtube: 'https://www.youtube.com/@LB1DK_no/shorts',
-  linkedin: 'https://www.linkedin.com',
-  threads: 'https://www.threads.net',
-  instagram: 'https://www.instagram.com',
-  locale: 'en-US',
+  facebook: "https://facebook.com",
+  youtube: "https://www.youtube.com/@LB1DK_no/shorts",
+  linkedin: "https://www.linkedin.com",
+  threads: "https://www.threads.net",
+  instagram: "https://www.instagram.com",
+  locale: "en-US",
   // set to true if you want a navbar fixed to the top
   stickyNav: false,
   analytics: {
@@ -41,7 +41,7 @@ const siteMetadata = {
     // },
     // simpleAnalytics: {},
     posthogAnalytics: {
-      posthogProjectApiKey: 'phc_NoW50ejUUWZAnswQUjWRJR3WNWF0TFDXTh3Sf1eL01f', // e.g. 123e4567-e89b-12d3-a456-426614174000
+      posthogProjectApiKey: "phc_NoW50ejUUWZAnswQUjWRJR3WNWF0TFDXTh3Sf1eL01f", // e.g. 123e4567-e89b-12d3-a456-426614174000
     },
     // googleAnalytics: {
     //   googleAnalyticsId: '', // e.g. G-XXXXXXX
@@ -65,27 +65,27 @@ const siteMetadata = {
       repositoryId: process.env.NEXT_PUBLIC_GISCUS_REPOSITORY_ID,
       category: process.env.NEXT_PUBLIC_GISCUS_CATEGORY,
       categoryId: process.env.NEXT_PUBLIC_GISCUS_CATEGORY_ID,
-      mapping: 'pathname', // supported options: pathname, url, title
-      reactions: '1', // Emoji reactions: 1 = enable / 0 = disable
+      mapping: "pathname", // supported options: pathname, url, title
+      reactions: "1", // Emoji reactions: 1 = enable / 0 = disable
       // Send discussion metadata periodically to the parent window: 1 = enable / 0 = disable
-      metadata: '0',
+      metadata: "0",
       // theme example: light, dark, dark_dimmed, dark_high_contrast
       // transparent_dark, preferred_color_scheme, custom
-      theme: 'light',
+      theme: "light",
       // theme when dark mode
-      darkTheme: 'transparent_dark',
+      darkTheme: "transparent_dark",
       // If the theme option above is set to 'custom`
       // please provide a link below to your custom theme css file.
       // example: https://giscus.app/themes/custom_example.css
-      themeURL: '',
+      themeURL: "",
       // This corresponds to the `data-lang="en"` in giscus's configurations
-      lang: 'en',
+      lang: "en",
     },
   },
   search: {
-    provider: 'kbar', // kbar or algolia
+    provider: "kbar", // kbar or algolia
     kbarConfig: {
-      searchDocumentsPath: `${process.env.BASE_PATH || ''}/search.json`, // path to load documents to search
+      searchDocumentsPath: `${process.env.BASE_PATH || ""}/search.json`, // path to load documents to search
     },
     // provider: 'algolia',
     // algoliaConfig: {
