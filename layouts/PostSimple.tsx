@@ -8,7 +8,7 @@ import PageTitle from "@/components/PageTitle"
 import SectionContainer from "@/components/SectionContainer"
 import siteMetadata from "@/data/siteMetadata"
 import ScrollTopAndComment from "@/components/ScrollTopAndComment"
-
+import AffiliateDisclaimer from "@/components/AffiliateDisclaimer"
 interface LayoutProps {
   content: CoreContent<Blog>
   children: ReactNode
@@ -77,6 +77,7 @@ export default function PostLayout({ content, next, prev, children }: LayoutProp
           </div>
         </div>
       </article>
+      <AffiliateDisclaimer />
     </SectionContainer>
   )
 }

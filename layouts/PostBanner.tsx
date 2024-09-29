@@ -9,6 +9,7 @@ import PageTitle from "@/components/PageTitle"
 import SectionContainer from "@/components/SectionContainer"
 import siteMetadata from "@/data/siteMetadata"
 import ScrollTopAndComment from "@/components/ScrollTopAndComment"
+import AffiliateDisclaimer from "@/components/AffiliateDisclaimer"
 
 interface LayoutProps {
   content: CoreContent<Blog>
@@ -73,6 +74,7 @@ export default function PostMinimal({ content, next, prev, children }: LayoutPro
           </footer>
         </div>
       </article>
+      <AffiliateDisclaimer />
     </SectionContainer>
   )
 }
