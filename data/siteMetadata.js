@@ -1,17 +1,17 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: "LB1DB",
+  title: "LB1DK",
   author: "Mikael",
   headerTitle: "Home of LB1DK",
   description: "A blog about my ham radio adventures",
   language: "en-us",
   theme: "system", // system, dark or light
-  siteUrl: "https://www.lb1db.no",
+  siteUrl: "https://www.lb1dk.no",
   siteRepo: "https://github.com/timlrx/tailwind-nextjs-starter-blog",
   siteLogo: `${process.env.BASE_PATH || ""}/static/images/LB1DK.svg`,
   socialBanner: `${process.env.BASE_PATH || ""}/static/images/twitter-card.png`,
   mastodon: "https://mastodon.social/@mastodonuser",
-  email: "contact@lb1db.no",
+  email: "contact@lb1dk.no",
   github: "https://github.com",
   x: "https://twitter.com/x",
   // twitter: 'https://twitter.com/Twitter',
