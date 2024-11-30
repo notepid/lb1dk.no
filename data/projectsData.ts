@@ -15,12 +15,10 @@ const projectsData: Project[] = [
   //   href: 'https://www.google.com',
   // },
   // {
-  //   title: 'The Time Machine',
-  //   description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-  //   to the desired date and press "Go". No more worrying about lost keys or
-  //   forgotten headphones with this simple yet affordable solution.`,
+  //   title: 'HF HAM band characteristics',
+  //   description: `One of the things as a new HAM struggle with is to remember what the different HF bands are good for and when to use them. So here is my compliation of this information and I hope it is useful to you as well.`,
   //   imgSrc: '/static/images/time-machine.jpg',
-  //   href: '/blog/the-time-machine',
+  //   href: '/blog/hf-bands',
   // },
 ]
 
