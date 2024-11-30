@@ -1,0 +1,30 @@
+---
+title: New tool aimed at POTA and SOTA hunters
+date: "2024-11-30"
+tags: ["software"]
+draft: false
+summary: "While being under the weather, I spent some time doing POTA and SOTA hunting. The existing tools are pretty good, but I always felt it would be great to see activations on a map, not just a list. So, I created an app for that: SpotMap."
+---
+
+Being unwell for a bit gave me time to indulge in some POTA and SOTA hunting. While the existing tools are solid, I've always thought it would be much better to visualize activations on a map instead of just working from a list. So, I decided to build an app to do just that: [SpotMap](https://spotmap.lb1dk.no/).
+
+![](/static/images/spotmap.png)
+
+## How SpotMap Came to Be ## 
+The project started with me experimenting with the new agent feature in Replit AI, which made setting up the app quick and fun. It's amazing to let AI do the heavy lifting. However, the cost of the AI agent (\$25/month) combined with Replit's hosting plans (even the cheapest ones) was too steep for a basic project. Hosting the app there would have set me back over \$15/month.
+
+Since I already subscribe to Cursor AI and have been using its tools for a while, I decided to migrate the project there and continue development. The system is built with a Node.js backend and a React frontend, for those interested in the tech details. I also managed to host it for free on Render.com, which is a big plus. I love finding free hosting solutions—for example, this blog is hosted for free on Cloudflare Pages, so it doesn't cost me a thing.
+
+## Who Is SpotMap For? ##
+SpotMap is designed for POTA Hunters and SOTA Chasers who want a better way to track activations. It's intuitive to use, but here are some features you might not immediately notice:
+
+* **Filtering Options**: Easily filter activations by POTA or SOTA, as well as by band and mode.
+* **Pinning Spots**: You can pin a spot to keep it at the top of your list, whether you're working from the map or the recent spots list.
+* **QSO Logging**: Log your QSOs by clicking the icon next to the pin button. Later, you can export your logs as ADI files to import into other software. All data is stored locally in your browser, so only you can see your QSO notes.
+* **Color-Coding**: The colors on the map represent different types of information. Check the legend (click the info icon in the bottom left corner of the map) for details.
+* **Support the Project**: If you find SpotMap useful, consider clicking the "Buy me a coffee" button to support its development!
+
+## Final Thoughts ##
+I built SpotMap to enhance the experience of POTA and SOTA hunting, and I hope it becomes a useful tool for you. You can find a link to the tool on the top menu of this blog and if you have any issues or feature ideas, feel free to drop me an email at contact@lb1dk.no
+
+Happy hunting!
