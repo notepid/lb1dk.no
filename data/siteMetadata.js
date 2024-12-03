@@ -20,6 +20,7 @@ const siteMetadata = {
   linkedin: "https://www.linkedin.com",
   threads: "https://www.threads.net",
   instagram: "https://www.instagram.com",
+  bluesky: "https://bsky.app/profile/notepid.bsky.social",
   locale: "en-US",
   // set to true if you want a navbar fixed to the top
   stickyNav: false,
